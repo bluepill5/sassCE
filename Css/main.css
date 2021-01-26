@@ -1,0 +1,40 @@
+/** colores */
+/** fuentes */
+.blog .title {
+  font-family: "Alegra", "serif";
+  color: #135359;
+  display: flex;
+  font-size: 30px; }
+
+.blog {
+  background-color: #f79054;
+  width: 100%;
+  padding: 30px;
+  display: flex; }
+  .blog .process-list {
+    margin-bottom: 20px;
+    margin-bottom: 36px; }
+  .blog .process {
+    margin-bottom: 25px; }
+    .blog .process > div > h3 {
+      color: #17885d;
+      margin-bottom: 0;
+      font-size: 30px;
+      font-weight: 500; }
+    .blog .process > div > p {
+      color: #135359;
+      margin: 0; }
+    .blog .process > div .process-icon {
+      width: 60px;
+      height: 60 px;
+      margin-right: 10px;
+      text-align: center; }
+      .blog .process > div .process-icon img {
+        height: 100%; }
+  .blog button {
+    height: auto;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 12px;
+    width: 180px;
+    margin-bottom: 15px; }

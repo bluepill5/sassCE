@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "bluepill5",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "node-sass": "^5.0.0"
+  }
+}
